@@ -1,3 +1,3 @@
-# Protocols and Combine: Using @Published in your Protocol declaration
+# Protocols and Combine
 
 This is the companion app/sample to the my blog post, available at https://danielbernal.co/combine-and-protocols-in-swift/
